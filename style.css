@@ -1,0 +1,12 @@
+h1 {
+  font-style: helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+p { 
+  padding: 10px;
+  font-style: helvetica;
+  color: red;
+}
+
